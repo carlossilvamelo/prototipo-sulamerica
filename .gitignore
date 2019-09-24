@@ -1,0 +1,45 @@
+.DS_Store
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn.lock
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+node_modules
+release
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+
+# Created by https://www.gitignore.io/api/vuejs,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=vuejs,visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+### Vuejs ###
+# Recommended template: Node.gitignore
+
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# End of https://www.gitignore.io/api/vuejs,visualstudiocode
